@@ -1,0 +1,347 @@
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.exe
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.deps.json
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.json
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Form1.resources
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Properties.Resources.resources
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\lenovo\Desktop\UCE_BEAUTE\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.genruntimeconfig.cache
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.exe
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.deps.json
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.json
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.dev.json
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Form1.resources
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Properties.Resources.resources
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfo.cs
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.CopyComplete
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.genruntimeconfig.cache
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.FormIslemler.resources
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.FormMusteriler.resources
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.FormRandevuKayit.resources
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.Randevular.resources
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.exe
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.deps.json
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.json
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Form1.resources
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.FormIslemler.resources
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.FormMusteriler.resources
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.Randevular.resources
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Properties.Resources.resources
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\uce son hali rar\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.RandevuKayit.resources
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.exe
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.deps.json
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.json
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.dev.json
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Form1.resources
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.FormIslemler.resources
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.FormMusteriler.resources
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\loginsonhali.LoginDeneme.resources
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.RandevuKayit.resources
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.Randevular.resources
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Properties.Resources.resources
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfo.cs
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\Casper\Desktop\Yeni WinRAR arşivi (2)\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.genruntimeconfig.cache
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.exe
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.deps.json
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.json
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.dev.json
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Form1.resources
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.RandevuKayit.resources
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.Randevular.resources
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Properties.Resources.resources
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfo.cs
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.genruntimeconfig.cache
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\loginsonhali.Giris.resources
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.Islemler.resources
+C:\Users\Casper\Desktop\UceBeauteFromEdaSon\UceBeauteFromEda\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.personel.resources
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.exe
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.deps.json
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.json
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.dev.json
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraCharts.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Charts.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.CodeParser.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Data.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.DataAccess.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Images.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Map.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Office.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraReports.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.SpellChecker.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Spreadsheet.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraTreeMap.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.TreeMap.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Utils.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Utils.v21.2.UI.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraWizard.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraCharts.v21.2.UI.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Mvvm.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Xpo.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraBars.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraDialogs.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraEditors.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraGantt.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraGauges.v21.2.Presets.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraGauges.v21.2.Win.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraGrid.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraLayout.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraMap.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraPdfViewer.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraScheduler.v21.2.Extensions.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraScheduler.v21.2.Reporting.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraScheduler.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraSpellChecker.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraSpreadsheet.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraTreeMap.v21.2.UI.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Dialogs.v21.2.Core.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\System.ServiceModel.Http.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\System.ServiceModel.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\System.ServiceModel.Security.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Form1.resources
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\loginsonhali.Giris.resources
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.Islemler.resources
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.personel.resources
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.RandevuKayit.resources
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.Randevular.resources
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Properties.Resources.resources
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfo.cs
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\Casper\Desktop\UceBeaute\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.genruntimeconfig.cache
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.exe
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.deps.json
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.json
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.runtimeconfig.dev.json
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraCharts.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Charts.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.CodeParser.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Data.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.DataAccess.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Images.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Map.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Office.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraReports.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.SpellChecker.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Spreadsheet.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraTreeMap.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.TreeMap.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Utils.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Utils.v21.2.UI.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraWizard.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraCharts.v21.2.UI.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Mvvm.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Xpo.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraBars.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraDialogs.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraEditors.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraGantt.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraGauges.v21.2.Presets.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraGauges.v21.2.Win.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraGrid.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraLayout.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraMap.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraPdfViewer.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraScheduler.v21.2.Extensions.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraScheduler.v21.2.Reporting.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraScheduler.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraSpellChecker.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraSpreadsheet.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraTreeMap.v21.2.UI.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\DevExpress.Dialogs.v21.2.Core.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\System.ServiceModel.Http.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\System.ServiceModel.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\System.ServiceModel.Security.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Form1.resources
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\loginsonhali.Giris.resources
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.Islemler.resources
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.personel.resources
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.RandevuKayit.resources
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Forms.Randevular.resources
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.Properties.Resources.resources
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.AssemblyInfo.cs
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\ref\UceBeaute.dll
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.pdb
+C:\Users\Casper\Desktop\Proje\UceBeaute\obj\Debug\net5.0-windows\UceBeaute.genruntimeconfig.cache
